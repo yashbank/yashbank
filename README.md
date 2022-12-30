@@ -1,6 +1,6 @@
 # Hi there, I'm Yash Bankar 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/YshBnkar1)
+[![Twitter Follow](https://img.shields.io/twitter/follow/YshBnkar1?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/YshBnkar1)
 
 ## I'm a Full Stack Web Developer, UI Designer, and Student!
 
