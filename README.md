@@ -13,13 +13,12 @@
 ### Connect with me:
 
 [![website](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQInRC8KIcHOcCIVlSdrRuVIaoa6w4UyPPFX9nSVVrBbg&s)](https://twitter.com/YshBnkar1)
-[![website](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQInRC8KIcHOcCIVlSdrRuVIaoa6w4UyPPFX9nSVVrBbg&s)](https://twitter.com/YshBnkar1)
+
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/yash-bankar-9249531aa/)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/yash-bankar-9249531aa/)
+[![website](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB4agyICe43CkiIUMGzBJzwl43cT30Eucp2c3yE3TpSQ&s)](https://www.linkedin.com/in/yash-bankar-9249531aa/)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/yashbank/)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/yashbank/)
+[![website](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRDO0Sb6V0D7ME7aqA4_Ldu0CIU5L8XIHzP7nqaXqOJA&s)](https://www.instagram.com/yashbank/)
 
 ### Languages and Tools:
 
