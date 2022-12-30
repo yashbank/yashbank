@@ -12,8 +12,8 @@
 
 ### Connect with me:
 
-[![website](./img/twitter-light.svg)](https://twitter.com/YshBnkar1)
-[![website](./img/twitter-dark.svg)](https://twitter.com/YshBnkar1)
+[![website](twitter.png)](https://twitter.com/YshBnkar1)
+[![website](twitter.png)](https://twitter.com/YshBnkar1)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/yash-bankar-9249531aa/)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/yash-bankar-9249531aa/)
