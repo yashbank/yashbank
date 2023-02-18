@@ -29,6 +29,8 @@ Hello stranger! my name is Yash Bankar and I am a Full Stack Developer, passiona
 
 - 💬 Have a look at my [Portfolio](https://yashbank.github.io/)
 
+-    Checkout my **[Resume](https://drive.google.com/file/d/1Kc6mMWHNep-eJan4ZsOcARtHedCzEWvx/view)**
+
 <h2>🥇 Skills:  </h2>  
 <p >
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
